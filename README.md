@@ -13,7 +13,7 @@ $ npm install --save random-quotes
 NodeJS:
 
 ```js
-const randomQuotes = require('go-fuck-yourself');
+const goFuckYourself = require('go-fuck-yourself');
 ```
 
 Browsers:
@@ -25,8 +25,8 @@ Browsers:
 ```js
 randomQuotes();
 //  {
-//    body: 'It\'s not poisonous...',
-//    author: 'Famous Last Words'
+//    body: 'I'm sorry did I woll my eyes out loud? Go fuck yourself...',
+//    author: '- Someone that hates you'
 //  }
 ```
 
