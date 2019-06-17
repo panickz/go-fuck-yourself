@@ -23,7 +23,7 @@ Browsers:
 ```
 
 ```js
-randomQuotes();
+randomGoFuckYourSelfQuotes();
 //  {
 //    body: 'I'm sorry did I woll my eyes out loud? Go fuck yourself...',
 //    author: '- Someone that hates you'
@@ -32,12 +32,12 @@ randomQuotes();
 
 ## API
 
-- **`randomQuotes([count=1])`**
+- **`randomGoFuckYourSelfQuotes([count=1])`**
   - `count`: _Number_, _Optional_: The number of go fuck yourself quotes to get.
   - Returns a random go fuck yourself object with the following keys: `author`, `body`
   - When count is given, returns an array of random go fuck yourself quotes.
 
-- **`randomQuotes.byAuthor(author)`**
+- **`randomGoFuckYourSelfQuotes.byAuthor(author)`**
   - `author`: _String_. The name of the fucker.
   - Returns an array of go fuck yourself quotes by the given fucker who wrote it. Array will contain the string bodies of the go fuck yourself quotes directly.
 
