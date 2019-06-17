@@ -5,7 +5,7 @@ Get random quotes to lower the ego of everyone or even yourself... In other word
 ## Installation
 
 ```bash
-$ npm install --save random-quotes
+$ npm install --save go-fuck-yourself
 ```
 
 ## Usage
