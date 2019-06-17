@@ -1,6 +1,6 @@
 # Go fuck yourself
 
-Get random quotes to lower the ego of everyone or even yourself... In other works this package provides nothing. 
+Get random quotes to lower the ego of everyone or even yourself... In other words.. this package provides nothing. Nothing that you already know.
 
 ## Installation
 
