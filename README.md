@@ -25,7 +25,7 @@ Browsers:
 ```js
 randomGoFuckYourSelfQuotes();
 //  {
-//    body: 'I'm sorry did I woll my eyes out loud? Go fuck yourself...',
+//    body: 'I'm sorry did I roll my eyes out loud? Go fuck yourself...',
 //    author: '- Someone that hates you'
 //  }
 ```
