@@ -1,4 +1,4 @@
-# random-quotes
+# Go fuck yourself
 
 Get random quotes to lower the ego of everyone or even yourself... In other works this package provides nothing. 
 
